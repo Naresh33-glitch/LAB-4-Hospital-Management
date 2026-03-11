@@ -1,4 +1,6 @@
 # LAB-4-Hospital-Management
+## NAME : NARESH S
+## REG NO: 212224240101
 ### AIM:
 To develop the Hospital management System using Star UML tool.
 ### PROBLEM STATEMENT:
